@@ -80,7 +80,7 @@
 
                 </table>
 
-                <img src="./public/css/payment-history.png" style="width: 500px;position: absolute;bottom: 0;" alt="">
+               
             </center>
         </div>
 
