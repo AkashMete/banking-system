@@ -49,11 +49,12 @@
                     <center>
                         <div class="banner-content">
                             <h1>Basic Banking System</h1>
-                            <p style="font-family: 'Montserrat-Light', sans-serif; font-size: 2rem;">Task:1 The Sparks Foundation</p>
-                            <p style="font-family: 'Montserrat-Light', sans-serif; font-size: 1.5rem;"><b>Created By: Akash Mete</b></p>
+                            <p style="font-family: 'Montserrat-Light', sans-serif; font-size: 2rem;">Mini Project</p>
+                            <p style="font-family: 'Montserrat-Light', sans-serif; font-size: 1.5rem;"><b></b></p>
 
                             <a href="getnewuser.php"> <button type="button" class="btn btn-info btn-rounded btn-lg">Get Started<i class="fas fa-heart ml-2" aria-hidden="true"></i></button></a>
-
+                            <a href="updateuser.php"> <button type="button" class="btn btn-info btn-rounded btn-lg">Update Account<i class="fas fa-heart ml-2" aria-hidden="true"></i></button></a>
+                            <a href="deleteuser.php"> <button type="button" class="btn btn-info btn-rounded btn-lg">Delete Account<i class="fas fa-heart ml-2" aria-hidden="true"></i></button></a>
 
                         </div>
                     </center>

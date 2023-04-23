@@ -1,8 +1,8 @@
 <?php
-$mysql_hostname = "remotemysql.com";
-$mysql_user = "EeMQv0iRGM";
-$mysql_password = "HK2n9UyJss";
-$mysql_database = "EeMQv0iRGM";
+$mysql_hostname = "localhost";
+$mysql_user = "root";
+$mysql_password = "Akash@24";
+$mysql_database = "bankingdata";
 $port = 3306;
 $conn =  mysqli_connect($mysql_hostname,$mysql_user,$mysql_password,$mysql_database,$port);
 

@@ -6,7 +6,7 @@
             $email = $_REQUEST['email'];
             $balance = $_REQUEST['balance'];
 
-            $sql = "INSERT INTO allusers VALUES ('','$name','$email','$balance')";
+            $sql = "INSERT INTO allusers VALUES (0,'$name','$email','$balance')";
 
             if (mysqli_query($conn, $sql)) {
                 
